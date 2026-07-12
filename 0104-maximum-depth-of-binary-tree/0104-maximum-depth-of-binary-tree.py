@@ -12,7 +12,19 @@ class Solution(object):
         """
         if root == None :
             return 0
-        lh = self.maxDepth(root.left)
-        rh = self.maxDepth(root.right)
+        # lh = self.maxDepth(root.left)
+        # rh = self.maxDepth(root.right)
 
-        return 1 + max(lh,rh)
+        # return 1 + max(lh,rh)
+
+        st = []
+        mdep = 1
+        st.append((root,mdep))
+        while st :
+            node , dep = st.pop()
+            mdep = max(dep,mdep)
+            if node.left :
+                st.append((node.left, dep+1))
+            if node.right :
+                st.append((node.right, dep +1))
+        return mdep
