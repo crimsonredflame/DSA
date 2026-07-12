@@ -12,7 +12,7 @@ class Solution(object):
         """
         
         def val(root) :
-            if root == None : return True
+            if root == None : return 0
             left = val(root.left)
             if left == -1 : return -1
             right = val(root.right)
