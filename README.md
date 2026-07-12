@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
