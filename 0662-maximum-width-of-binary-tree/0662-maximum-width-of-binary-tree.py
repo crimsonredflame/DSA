@@ -11,6 +11,8 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
+        if root == None :
+            return 0
         dq = deque()
         dq.append((root,0))
         res = 1
