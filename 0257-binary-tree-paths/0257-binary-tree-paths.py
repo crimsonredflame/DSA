@@ -12,15 +12,15 @@ class Solution(object):
         """
         def isLeaf(node) :
             return node.left == None and node.right == None 
-        self.res = []
-        def binary(node,arr) :
+        res = []
+        def binary(node,path) :
             if node == None :
                 return
-            arr.append(node.val)
+            path += str(node.val)
             if isLeaf(node) : 
-                self.res.append("->".join(map(str, arr)))
-            binary(node.left,arr)
-            binary(node.right,arr)
-            arr.pop()
-        binary(root,[])
-        return self.res
+                res.append(path)
+            path += '->'
+            binary(node.left,path)
+            binary(node.right,path)
+        binary(root,"")
+        return res
