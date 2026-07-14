@@ -13,26 +13,37 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        p1,q1 = [],[]
-        def path(node,tar,arr) :
-            if node == None :
-                return False
-            arr.append(node)
-            if node.val == tar.val :
-                return True
-            if path(node.left,tar,arr) or path(node.right,tar,arr) :
-                return True
-            arr.pop()
-        path(root,p,p1)
-        path(root,q,q1)
-        l = min(len(p1),len(q1))
-        res = 0
-        for i in range(l) :
-            if p1[i].val == q1[i].val :
-                res = p1[i]
-            else :
-                break
-        return res
+        # p1,q1 = [],[]
+        # def path(node,tar,arr) :
+        #     if node == None :
+        #         return False
+        #     arr.append(node)
+        #     if node.val == tar.val :
+        #         return True
+        #     if path(node.left,tar,arr) or path(node.right,tar,arr) :
+        #         return True
+        #     arr.pop()
+        # path(root,p,p1)
+        # path(root,q,q1)
+        # l = min(len(p1),len(q1))
+        # res = 0
+        # for i in range(l) :
+        #     if p1[i].val == q1[i].val :
+        #         res = p1[i]
+        #     else :
+        #         break
+        # return res
+
+        if root == None or root == p or root == q :
+            return root
+        lf = self.lowestCommonAncestor(root.left, p, q)
+        ri = self.lowestCommonAncestor(root.right, p, q)
+        if lf == None :
+            return ri
+        elif ri == None :
+            return lf
+        else :
+            return root
         
 
             
