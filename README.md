@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/crimsonredflame/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/crimsonredflame/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crimsonredflame/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/crimsonredflame/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crimsonredflame/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/crimsonredflame/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/crimsonredflame/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
