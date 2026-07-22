@@ -11,7 +11,6 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = []
         st = []
         count = 0
         while True :
@@ -23,9 +22,8 @@ class Solution(object):
                     break
                 else :
                     ele = st.pop()
-                    res.append(ele.val)
                     count+=1
-                    root = ele.right
                     if count == k :
+                        return ele.val
                         break
-        return res[k-1]
+                    root = ele.right
