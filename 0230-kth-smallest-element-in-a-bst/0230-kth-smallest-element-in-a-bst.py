@@ -25,5 +25,4 @@ class Solution(object):
                     count+=1
                     if count == k :
                         return ele.val
-                        break
                     root = ele.right
