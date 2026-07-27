@@ -13,10 +13,18 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        curr = root
-        while (curr.val < p.val and curr.val < q.val) or (curr.val > p.val and curr.val > q.val) :
-            if curr.val < p.val and curr.val < q.val :
-                curr = curr.right
-            if curr.val > p.val and curr.val > q.val :
-                curr = curr.left
-        return curr
+        # curr = root
+        # while (curr.val < p.val and curr.val < q.val) or (curr.val > p.val and curr.val > q.val) :
+        #     if curr.val < p.val and curr.val < q.val :
+        #         curr = curr.right
+        #     if curr.val > p.val and curr.val > q.val :
+        #         curr = curr.left
+        # return curr
+
+        while root :
+            if root.val < min(p.val, q.val) :
+                root = root.right
+            elif root.val > max(p.val,q.val) :
+                root = root.left
+            else :
+                return root
