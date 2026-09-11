@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/crimsonredflame/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/crimsonredflame/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/crimsonredflame/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/crimsonredflame/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/crimsonredflame/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/crimsonredflame/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/crimsonredflame/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/crimsonredflame/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/crimsonredflame/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/crimsonredflame/DSA/tree/master/3731-find-missing-elements) |
@@ -236,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/crimsonredflame/DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
