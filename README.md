@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/crimsonredflame/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/crimsonredflame/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/crimsonredflame/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/crimsonredflame/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/crimsonredflame/DSA/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -243,8 +246,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
