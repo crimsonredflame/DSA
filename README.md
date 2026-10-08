@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/crimsonredflame/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/crimsonredflame/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/crimsonredflame/DSA/tree/master/0200-number-of-islands) |
+| [0518-coin-change-ii](https://github.com/crimsonredflame/DSA/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/crimsonredflame/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/crimsonredflame/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/crimsonredflame/DSA/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/crimsonredflame/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0518-coin-change-ii](https://github.com/crimsonredflame/DSA/tree/master/0518-coin-change-ii) |
 ## String
 |  |
 | ------- |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/crimsonredflame/DSA/tree/master/0785-is-graph-bipartite) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/crimsonredflame/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/crimsonredflame/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
