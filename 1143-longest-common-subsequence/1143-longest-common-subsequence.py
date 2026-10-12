@@ -8,10 +8,6 @@ class Solution(object):
         m = len(text1)
         n = len(text2)
         dp = [[0]*(n+1) for i in range(m+1)]
-        for i in range(m+1) :
-            dp[i][0] = 0
-        for i in range(n+1) :
-            dp[0][i] = 0
         for i in range(1,m+1) :
             for j in range(1,n+1) :
                 if text1[i-1] == text2[j-1] :
