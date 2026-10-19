@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/crimsonredflame/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0518-coin-change-ii](https://github.com/crimsonredflame/DSA/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/crimsonredflame/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/crimsonredflame/DSA/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/crimsonredflame/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/crimsonredflame/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/crimsonredflame/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0583-delete-operation-for-two-strings](https://github.com/crimsonredflame/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/crimsonredflame/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/crimsonredflame/DSA/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/crimsonredflame/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -277,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/crimsonredflame/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/crimsonredflame/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
