@@ -6,6 +6,8 @@ class Solution(object):
         """
         m = len(s)
         rev = s[::-1]
+        if s == rev :
+            return m
         dp = [[0]*(m+1) for i in range(m+1)]
 
         for i in range(1,m+1) :
